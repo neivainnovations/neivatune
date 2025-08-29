@@ -22,7 +22,7 @@ const Index = () => {
               <span className="bg-gradient-primary bg-clip-text text-transparent"> Nossa Vibe</span>
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-              No Curraus Bar, você é o DJ da sua experiência. Solicite suas músicas favoritas 
+              No Neiva Tune, você é o DJ da sua experiência. Solicite suas músicas favoritas 
               e transforme sua noite em algo inesquecível.
             </p>
           </div>

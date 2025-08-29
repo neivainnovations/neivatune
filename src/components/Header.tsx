@@ -10,10 +10,10 @@ export const Header = () => {
           </div>
           <div>
             <h1 className="text-3xl font-display font-bold text-foreground">
-              Curraus Bar
+              Neiva Tune
             </h1>
             <p className="text-sm text-muted-foreground">
-              Onde a música encontra o sabor
+              Sua música, nossa paixão
             </p>
           </div>
         </div>

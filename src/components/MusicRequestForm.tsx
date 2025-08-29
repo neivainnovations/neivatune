@@ -49,7 +49,7 @@ export const MusicRequestForm = () => {
           Solicite Sua Música
         </CardTitle>
         <CardDescription className="text-muted-foreground">
-          Escolha a trilha sonora perfeita para sua noite no Curraus Bar
+          Escolha a trilha sonora perfeita para sua noite no Neiva Tune
         </CardDescription>
       </CardHeader>
       
